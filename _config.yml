@@ -39,10 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+#black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
-
+background-img: "../img/intro-bg45.jpg"
 ##############################
 # Dynamic Text on the Header #
 ##############################
@@ -52,8 +51,8 @@ shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
-delete-delay: 5000
+start-delay: 20
+delete-delay: 1000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
@@ -122,7 +121,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "AnweshDas"
 
 syntax-highlight: True
 
