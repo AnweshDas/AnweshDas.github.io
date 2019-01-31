@@ -71,14 +71,14 @@ me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+ me-img: "https://github.com/AnweshDas.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
 # You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
 # just enter your email and it will generate the hash.
 
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
+ me-img: "https://www.gravatar.com/avatar/6b3b5a218726c2d2e16da2a8b0be9ad6?s=500"
 
 ##############################
 # Color the browser elements #
@@ -166,8 +166,8 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "facebook"
     url: "https://www.facebook.com/anwesh.das.the.raiton"
-  - title: "twitter"
-    url: "https://twitter.com/"
+ # - title: "twitter"
+  #  url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/AnweshDas"
   - title: "linkedin"
