@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Anwesh Das"
-title: "{ Anwesh Das }"
+title: " Anwesh Das"
 description: "My very own personal website,Just go through it You will know more about me."
 keywords: "das, anwesh, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
